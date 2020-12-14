@@ -20,6 +20,17 @@ o Province ➔ Variable Character of maximum 40 and Not Null and Default value o
 o City ➔ Variable Character of maximum 40 and Not Null Save this script as task1.sql
 
 
+
+
+
+
+
+
+
+
+
+
+
 mysql> show databases;
 +--------------------+
 | Database           |
