@@ -20,3 +20,18 @@ o Province ➔ Variable Character of maximum 40 and Not Null and Default value o
 o City ➔ Variable Character of maximum 40 and Not Null Save this script as task1.sql
 
 
+Task 2:
+- Insert at least 3 records in each table with any values (You might need to more records for learning)
+- Table Employee: Use SELECT statements to do:
+o All the records
+o The average of the employees’ salaries
+Example from chinook database:
+-- Find the average of the UnitPrice column (field) inside Track table:
+SELECT AVG(unitprice) FROM Track;
+o Grouped by “Job Title” ➔ GROUP BY filed_name
+Example from chinook database:
+- Table Customers:
+o Update one of the records (any field in that specific record) based on its id number
+o HINT: Using WHERE clause with the value of id field
+
+
